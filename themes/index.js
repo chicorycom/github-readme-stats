@@ -203,6 +203,12 @@ const themes = {
     text_color: "ebcfb2",
     bg_color: "373f51",
   },
+  chicorycom: {
+    title_color: "cc0000",
+    icon_color: "cc0000",
+    text_color: "f8d847",
+    bg_color: "0d0d0d",
+  },
 };
 
 module.exports = themes;
